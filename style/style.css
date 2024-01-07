@@ -5,7 +5,7 @@
 
 .main_all_text {
     color: #151414;
-    font-size: 65px;
+    font-size: 50px;
     font-weight: 900;
 }
 
@@ -59,11 +59,12 @@
     display: flex;
     justify-content: space-evenly;
     margin: 100px 0px;
-    padding: 0px 330px;
+    padding: 0px 30px;
     align-items: center;
 }
 
 .image_main img {
+    height: 500px;
     padding-left: 5px;
     border-radius: 500px;
     box-shadow: 0px 10px 30px 0px #444343;
@@ -77,7 +78,7 @@
 
 .info_main p {
     color: #444343;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 400;
     margin-top: 10px;
 }
@@ -86,7 +87,7 @@
     margin-top: 10px;
     list-style: none;
     color: #444343;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 400;
 }
 
